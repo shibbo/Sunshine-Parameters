@@ -1,14 +1,16 @@
-PoiHana
-X FLOAT
-Y FLOAT
-Z FLOAT
-Pitch FLOAT
-Yaw FLOAT
-Roll FLOAT
-ScaleX FLOAT
-ScaleY FLOAT
-ScaleZ FLOAT
-MManager STRING
-Unknown INT
-Manager STRING
+Cataquack (Blue)
+X FLOAT (null)
+Y FLOAT (null)
+Z FLOAT (null)
+Pitch FLOAT (null)
+Yaw FLOAT (null)
+Roll FLOAT (null)
+ScaleX FLOAT (null)
+ScaleY FLOAT (null)
+ScaleZ FLOAT (null)
+MManager STRING (null)
+Unknown INT (null)
+Manager STRING (null)
 DisplayModel COMMENT poihana/default.bmd
+Rail STRING "(null)"
+Unknown INT (null)

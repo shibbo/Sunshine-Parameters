@@ -12,3 +12,5 @@ Manager STRING
 Unknown INT
 Model STRING
 DisplayModel COMMENT fish/fishd.bmd
+Rail String "(null)"
+Unknown INT

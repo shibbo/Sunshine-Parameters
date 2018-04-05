@@ -1,5 +1,4 @@
 BeeHiveManager
-Name STRING
-Unknown INT
-Unknown FLOAT
-Unknown FLOAT
+Name STRING (null)
+Unknown INT (null)
+Unknown FLOAT (null)

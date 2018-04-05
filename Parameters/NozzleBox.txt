@@ -13,4 +13,6 @@ Unknown INT "(null)"
 Model STRING "(null)"
 DisplayTexture COMMENT mapobj/nozzlebox.bmt
 Unknown STRING "(null)"
-Unknown STRING (null)
+Unknown STRING "(null)"
+Unknown FLOAT (null)
+Unknown FLOAT "(null)"

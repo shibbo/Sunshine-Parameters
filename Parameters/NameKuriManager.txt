@@ -1,5 +1,4 @@
 Poison Chestnut ? Manager
-Character STRING
-Unknown1 INT
-Unknown2 INT
-Unknown3 INT
+Character STRING (null)
+Unknown1 INT (null)
+Unknown2 INT (null)
