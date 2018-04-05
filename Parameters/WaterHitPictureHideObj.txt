@@ -1,0 +1,15 @@
+Graffiti
+X FLOAT
+Y FLOAT
+Z FLOAT
+Pitch FLOAT
+Yaw FLOAT
+Roll FLOAT
+Unknown FLOAT
+Unknown FLOAT
+Unknown FLOAT
+Unknown STRING
+Unknown INT
+Model STRING
+KoopaJrSignM COMMENT mapobj/koopa_jr_sign.bmd
+ChipShine COMMENT mapobj/chip_shine_model1.bmd
